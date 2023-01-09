@@ -2,6 +2,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
+import sklearn
 import pickle #untuk menyimpan atau membaca data .pkl
 import base64 #untuk membuka file .gif di streamlit
 
