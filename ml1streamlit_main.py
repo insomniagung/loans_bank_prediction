@@ -17,6 +17,8 @@ def get_value(val, my_dict) :
     for key, value in my_dict.items() :
         if val == key :
             return value
+        
+st.title('This is a title')
 
 # sidebar
 #st.sidebar.header('MENU')
