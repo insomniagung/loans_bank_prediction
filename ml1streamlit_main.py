@@ -18,7 +18,10 @@ def get_value(val, my_dict) :
         if val == key :
             return value
         
-st.title('This is a title')
+st.set_page_config(
+    page_title="Ex-stream-ly Cool App",
+    page_icon="🧊",
+)
 
 # sidebar
 #st.sidebar.header('MENU')
