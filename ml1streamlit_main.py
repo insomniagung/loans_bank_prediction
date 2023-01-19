@@ -19,8 +19,7 @@ def get_value(val, my_dict) :
             return value
         
 st.set_page_config(
-    page_title="Ex-stream-ly Cool App",
-    page_icon="🧊",
+    page_title="Bankloan Apps",
 )
 
 # sidebar
